@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@300;400;500;600;700;800&family=Rubik+Vinyl&display=swap');
+
+
+
+
+body {
+  background: hotpink;
+  padding: 3rem;
+  font-family: 'Noto Sans Display', sans-serif;
+}
+
+p:last-of-type {
+margin-bottom: 2em;
+}
+
+.first-section {
+  border: 4px solid black;
+  padding: 3rem;
+}
+
+
+strong {
+  font-weight: 100;
+  color: lightblue;
+}
+
+.button {
+  width: 10em;
+  border: 1px solid red;
+  padding: 1em;
+  border-radius: 1em;
+  background: white;
+}
